@@ -1,1 +1,1 @@
-# rufier-projecy
+# ruffier project
